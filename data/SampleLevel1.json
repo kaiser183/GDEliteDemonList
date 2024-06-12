@@ -3,13 +3,13 @@
     "name": "Milanesa Corridor",
     "author": "Kinenebt",
     "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Zo1nk",
+    "verifier": "vergamo",
     "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
     "percentToQualify": 38,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
+            "user": "Zo1nk",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
             "hz": 360
